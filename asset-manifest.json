@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/DarrenJian1/haubi.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/DarrenJian1/haubi.git/static/js/main.eea513e8.chunk.js",
-    "main.js.map": "/DarrenJian1/haubi.git/static/js/main.eea513e8.chunk.js.map",
-    "runtime-main.js": "/DarrenJian1/haubi.git/static/js/runtime-main.6e78be01.js",
-    "runtime-main.js.map": "/DarrenJian1/haubi.git/static/js/runtime-main.6e78be01.js.map",
-    "static/js/2.cdab9428.chunk.js": "/DarrenJian1/haubi.git/static/js/2.cdab9428.chunk.js",
-    "static/js/2.cdab9428.chunk.js.map": "/DarrenJian1/haubi.git/static/js/2.cdab9428.chunk.js.map",
-    "index.html": "/DarrenJian1/haubi.git/index.html",
-    "precache-manifest.cf18368fb309f26370f34cec23ea0eec.js": "/DarrenJian1/haubi.git/precache-manifest.cf18368fb309f26370f34cec23ea0eec.js",
-    "service-worker.js": "/DarrenJian1/haubi.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/DarrenJian1/haubi.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cdab9428.chunk.js.LICENSE.txt": "/DarrenJian1/haubi.git/static/js/2.cdab9428.chunk.js.LICENSE.txt"
+    "main.css": "/DarrenJian1/haubi/static/css/main.5f361e03.chunk.css",
+    "main.js": "/DarrenJian1/haubi/static/js/main.1c6da735.chunk.js",
+    "main.js.map": "/DarrenJian1/haubi/static/js/main.1c6da735.chunk.js.map",
+    "runtime-main.js": "/DarrenJian1/haubi/static/js/runtime-main.3a1505ff.js",
+    "runtime-main.js.map": "/DarrenJian1/haubi/static/js/runtime-main.3a1505ff.js.map",
+    "static/js/2.3ed783e9.chunk.js": "/DarrenJian1/haubi/static/js/2.3ed783e9.chunk.js",
+    "static/js/2.3ed783e9.chunk.js.map": "/DarrenJian1/haubi/static/js/2.3ed783e9.chunk.js.map",
+    "index.html": "/DarrenJian1/haubi/index.html",
+    "precache-manifest.4ba0f747796caa105c8627c7cc12042d.js": "/DarrenJian1/haubi/precache-manifest.4ba0f747796caa105c8627c7cc12042d.js",
+    "service-worker.js": "/DarrenJian1/haubi/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/DarrenJian1/haubi/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3ed783e9.chunk.js.LICENSE.txt": "/DarrenJian1/haubi/static/js/2.3ed783e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e78be01.js",
-    "static/js/2.cdab9428.chunk.js",
+    "static/js/runtime-main.3a1505ff.js",
+    "static/js/2.3ed783e9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.eea513e8.chunk.js"
+    "static/js/main.1c6da735.chunk.js"
   ]
 }
